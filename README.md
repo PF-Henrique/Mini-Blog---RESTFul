@@ -69,12 +69,58 @@ $ npm run test:cov
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
+## 👤 Author
+* **GitHub: [@PF-Henrique](https://github.com/PF-Henrique)**
+* **LinkedIn: [@PedroFerreira](https://www.linkedin.com/in/pedro-ferreira-148503b8/)**
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+## 🤝 Contributing
+There are many forms to contribute with the project, first of all you can give this github repo a Star.
+
+If you want do help with the code follow the steps bellow
+
+```ts
+# Fork using GitHub official command line
+# If you don't have the GitHub CLI, use the web site to do that.
+$ gh repo fork PF-Henrique/Be-The-Hero
+
+# Clone your fork
+$ git clone {your-fork-url}
+$ cd proffy
+
+# Create a branch with your feature
+$ git checkout -b {branch-name}
+
+# Make the commit with your changes
+$ git commit -m 'Feat: {feature-name}'
+
+# Send the code to your remote branch
+$ git push origin {branch-name}
+```
+
+Then send a Pull Request that will be analyzed and approved if it helps with the project
+
+---
+## 🐛 Issues
+
+Feel free to **file a new issue** with a respective title and description on the the [ProductHunt](https://github.com/PF-Henrique/Starter-Rocketseat/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 ## License
 
   Nest is [MIT licensed](LICENSE).
+
+## ✨ Me
+
+<a href="https:https://github.com/PF-Henrique/">
+  <img src="https://avatars1.githubusercontent.com/u/48561196?s=460&u=5b39cdc8c6d447868ca0caac900f1ee7a1793962&v=4" width= "50px;" height= "50px;" alt="Avatar"/>
+  <br />
+ <sub>
+  <b>
+    Pedro Ferreira
+  </b>
+</sub>
+</a> 
+<a href="<a href="https:https://github.com/PF-Henrique/" title="ProductHunt">🚀:octocat:</a>
+<br />
+
+
+Made with 💙 by Pedro Ferreira 👋 [Talk to me!](https://www.linkedin.com/in/pedro-ferreira-148503b8/) :octocat:
