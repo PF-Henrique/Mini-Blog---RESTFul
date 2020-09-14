@@ -119,8 +119,8 @@ Feel free to **file a new issue** with a respective title and description on the
   </b>
 </sub>
 </a> 
-<a href="<a href="https:https://github.com/PF-Henrique/" title="ProductHunt">🚀:octocat:</a>
+<a href="<a href="https:https://github.com/PF-Henrique/" title="ProductHunt">🚀</a>
 <br />
 
 
-Made with 💙 by Pedro Ferreira 👋 [Talk to me!](https://www.linkedin.com/in/pedro-ferreira-148503b8/) :octocat:
+Made with 💙 by Pedro Ferreira 👋 [Talk to me!](https://www.linkedin.com/in/pedro-ferreira-148503b8/)
