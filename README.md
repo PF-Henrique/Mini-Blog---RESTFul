@@ -1,8 +1,5 @@
 ## 👌 Tutorial --> 'https://www.freecodecamp.org/news/build-web-apis-with-nestjs-beginners-guide/'
 
-## Description
-A Simple CRUD Web API with NestJs, Postgres, Sequelize ORM. 
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -32,6 +29,7 @@ A Simple CRUD Web API with NestJs, Postgres, Sequelize ORM.
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A Simple CRUD Web API with NestJs, Postgres, Sequelize ORM. 
 
 ## Installation
 
