@@ -8,7 +8,6 @@
 [linux-url]: https://travis-ci.org/nestjs/nest
   
   <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications, heavily inspired by <a href="https://angular.io" target="blank">Angular</a>.</p>
-  ### 👌 Tutorial --> 'https://www.freecodecamp.org/news/build-web-apis-with-nestjs-beginners-guide/'
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -29,6 +28,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 A Simple CRUD Web API with NestJs, Postgres, Sequelize ORM. 
+👌 Tutorial --> 'https://www.freecodecamp.org/news/build-web-apis-with-nestjs-beginners-guide/'
+
 
 ## Installation
 
